@@ -11,7 +11,7 @@ function App() {
           <main className= "content"></main>
       </div>
       </ThemeProvider>
-    </ColorModeContext.Provider>
+    </ColorModeContext.Provider>a
   );
 }
 
